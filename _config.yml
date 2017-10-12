@@ -1,0 +1,8 @@
+title: jQuery Images Compare
+description: A jQuery plugin for comparing two images
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
